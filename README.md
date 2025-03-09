@@ -9,3 +9,4 @@
 7. https://eco-retro.netlify.app
 8. https://moneywiseteens.netlify.app
 9. https://shreyazh.github.io/LoveBirds
+10. https://shreyazh.github.io/Code-of-the-internet/
