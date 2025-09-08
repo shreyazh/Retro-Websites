@@ -18,7 +18,7 @@ Throwback to the golden era of the web—pixelated charm, hand-coded love, and b
 | **GenZ (Netlify)**           | [Live](https://genzbyshreyash.netlify.app)              | [GitHub](https://github.com/shreyazh/genzbyshreyash)       |
 | **WebGL Playground**         | [Live](https://shreyash-webgl.vercel.app)               | [GitHub](https://github.com/shreyazh/WebGL-1)              |
 
-> ✨ Want to add your own retro site to the list? [Contribute](https://github.com/shreyazh/Retro-Websites/CONTRIBUTE.md) and vibe with us!
+> ✨ Want to add your own retro site to the list? [Contribute](https://github.com/shreyazh/Retro-Websites/blob/main/CONTRIBUTE.md) and vibe with us!
 
 
 In 2016, I coded my first website. No AI. No templates. Just a text editor and pure imagination.
