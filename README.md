@@ -1,4 +1,4 @@
-# 🕹️ World Wibes Web – The Comeback
+# World Wibes Web – The Comeback
 #### Retro Website Collection
 
 Throwback to the golden era of the web—pixelated charm, hand-coded love, and bold creativity. Here's a curated list of some retro-inspired website projects. Each one has its own unique vibe—check them out and dive into the source code!
@@ -18,7 +18,7 @@ Throwback to the golden era of the web—pixelated charm, hand-coded love, and b
 | **GenZ Lingo 2**           | [Live](https://genzbyshreyash.netlify.app)              | [GitHub](https://github.com/shreyazh/genzbyshreyash)       |
 | **WebGL Playground**         | [Live](https://shreyash-webgl.vercel.app)               | [GitHub](https://github.com/shreyazh/WebGL-1)              |
 
-> ✨ Want to add your own retro site to the list? [Contribute](https://github.com/shreyazh/Retro-Websites/blob/main/CONTRIBUTE.md) and vibe with us!
+> Want to add your own retro site to the list? [Contribute](https://github.com/shreyazh/Retro-Websites/blob/main/CONTRIBUTE.md) and vibe with us!
 
 
 In 2016, I coded my first website. No AI. No templates. Just a text editor and pure imagination.
@@ -27,21 +27,21 @@ In 2025, I’m bringing that feeling back.
 
 **Retro Vibes Web** is an open-source series of nostalgic web designs—crafted in pure HTML, CSS, and that pixel-perfect care we all remember. These aren't templates. They’re time machines.
 
-## ✨ Why This?
+## Why This?
 
 We’re flooded with AI-built websites today—but where’s the *soul*? This is for everyone who misses the *vibe* of coding from scratch.
 
-## 💾 What's Inside?
+## What's Inside?
 
 – Blinking banners, bold colors, visitor counters
 - Personal pages with punchy design
 – Original style, revamped
 
-## 🤝 Contribute
+## Contribute
 
 Got your own retro design idea? Fork this repo. Drop it into `/designs`, and make a pull request.
 
-## 📜 License
+## License
 
 [MIT License](LICENSE) – Build, remix, share.
 
