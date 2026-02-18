@@ -1,7 +1,7 @@
 # World Wibes Web – The Comeback
 #### Retro Website Collection
 
-Throwback to the golden era of the web—pixelated charm, hand-coded love, and bold creativity. Here's a curated list of some retro-inspired website projects. Each one has its own unique vibe—check them out and dive into the source code!
+Throwback to the golden era of the web-pixelated charm, hand-coded love, and bold creativity. Here's a curated list of some retro-inspired website projects. Each one has its own unique flavour. Check them out and dive into the source code!
 
 | Project Name                 | Live Demo                                               | GitHub Repo                                                |
 |------------------------------|---------------------------------------------------------|------------------------------------------------------------|
@@ -48,4 +48,4 @@ Got your own retro design idea? Fork this repo. Drop it into `/designs`, and mak
 
 ---
 
-> Let’s bring back the magic of the old web. One page at a time.
+> Let’s bring back the magic of the old web. One More Time.
